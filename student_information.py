@@ -1,0 +1,16 @@
+print("==============================")
+print("    STUDENT INFORMATION")
+print("==============================")
+
+name = input("Enter student name: ")
+age = int(input("Enter age: "))
+course = input("Enter course: ")
+year = input("Enter year level: ")
+
+print("------------------------------")
+print("STUDENT DETAILS")
+print("------------------------------")
+print("Name:", name)
+print("Age:", age)
+print("Course:", course)
+print("Year Level:", year)
